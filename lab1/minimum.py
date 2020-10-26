@@ -7,4 +7,3 @@ elif (b > a and a > c) or (b > c and c > a):
   print("greatest value is", b)
 elif (c > a and a > b) or (c > b and b > c): 
   print("greatest value is", c)
-
