@@ -1,2 +1,2 @@
 language = "python3"
-run = "python lab1/multiplication.py"
+run = "python lab6/av_g.py"
