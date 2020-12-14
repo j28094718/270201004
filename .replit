@@ -1,2 +1,2 @@
 language = "python3"
-run = "python lab8/func.py"
+run = "python lab8/primenumbers.py"
