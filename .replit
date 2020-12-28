@@ -1,2 +1,2 @@
 language = "python3"
-run = "python lab9/functions.py"
+run = "python lab10/hailstone.py"
